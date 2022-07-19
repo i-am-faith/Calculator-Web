@@ -11,6 +11,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #fbb034;
-  background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
+  background-color: #00fbff;
+  background-image: url(./components/bg_cal.jpg);
 }

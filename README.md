@@ -16,7 +16,7 @@ A calculator project built with React.
 
 ## Installation
 
-1. `git clone https://github.com/madzadev/calculator.git`
+1. `git clone https://github.com/i-am-faith/Calculator-Web`
 
 2. `cd calculator`
 
